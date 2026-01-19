@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://sandeepkairamkonda.vercel.app">
+  <a href="https://sandeepk-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-14c8c8?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sandeep-kairamkonda-0a6887148/">
@@ -144,7 +144,7 @@ const sandeep = {
 
 <div align="center">
   
-<a href="https://sandeepkairamkonda.vercel.app">
+<a href="https://sandeepk-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-14c8c8?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
 </a>
 
