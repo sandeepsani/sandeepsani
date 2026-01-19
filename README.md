@@ -101,7 +101,7 @@ const sandeep = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsani&theme=tokyonight&hide_border=true&background=0d1117&ring=14c8c8&fire=14c8c8&currStreakLabel=14c8c8&stroke=14c8c8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sandeepsani&theme=tokyonight&hide_border=true&background=0d1117&ring=14c8c8&fire=14c8c8&currStreakLabel=14c8c8&stroke=14c8c8" alt="GitHub Streak"/>
 </div>
 
 <!-- Contribution Snake Animation -->
