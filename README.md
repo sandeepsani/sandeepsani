@@ -5,10 +5,12 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14C8C8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Architecting+High-Scale+Backend+Systems+%F0%9F%9A%80;Processing+2.1M%2B+Daily+Requests+%E2%9A%A1;%248.3M%2B+Monthly+Transactions+%F0%9F%92%B0;99.96%25+Service+Uptime+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14C8C8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Architecting+High-Scale+Backend+Systems+%F0%9F%9A%80;Processing+2.1M%2B+Daily+Requests+%E2%9A%A1;%248.3M%2B+Monthly+Transactions+%F0%9F%92%B0;99.96%25+Service+Uptime+%E2%9C%85" alt="Typing SVG" />
 </a>
 
-<!-- Social Badges with Animation -->
+<br/><br/>
+
+<!-- Social Badges -->
 <p>
   <a href="https://sandeepkairamkonda.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-14c8c8?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
